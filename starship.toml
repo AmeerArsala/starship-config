@@ -4,6 +4,7 @@ add_newline = true
 continuation_prompt = "[▸▹ ](dimmed white)"
 
 right_format = """
+$cmd_duration\
 $sudo\
 """
 
