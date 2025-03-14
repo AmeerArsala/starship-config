@@ -46,7 +46,7 @@ format = '[$path]($style)[$read_only]($read_only_style)'
 repo_root_style = 'bold cyan'
 
 [cmd_duration]
-format = "[◄ $duration ](italic white)"
+format = " [◄ $duration ](italic white)"
 
 [jobs]
 format = "[$symbol$number]($style) "
